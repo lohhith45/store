@@ -1,0 +1,45 @@
+.off
+{
+    border: 1px solid;
+    padding: 5px 5px 5px 5px;
+    margin: 10px auto;
+    background-color: coral;
+    position: sticky;
+    top: 0;
+}
+.card
+{
+  width: 250px;
+  padding: 10px 10px 10px 10px;
+  
+  
+  
+}
+.main
+{
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 10px 10px 10px 10px;
+}
+img
+{
+    width: 100%;
+}
+.btn
+{
+    padding:3px 3px 3px 3px;
+    color: white;
+    background-color: black;
+
+}
+.flex
+{
+    display: flex;
+    gap: 80px;
+    flex-wrap: wrap;
+}
+.best
+{
+  position: fixed;
+  top: 0%;
+}
